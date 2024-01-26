@@ -25,4 +25,4 @@ WeatherNow is a sleek and intuitive weather application that provides real-time 
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/WeatherNow.git
+git clone https://github.com/VIJAYALAYAN2002/WeatherNow.git
